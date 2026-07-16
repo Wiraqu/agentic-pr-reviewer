@@ -28,3 +28,4 @@ Generate comprehensive test coverage analysis for code changes.
   "suggestion": "Add test: def test_y_when_z(): ...",
   "confidence": 0.9
 }
+ 

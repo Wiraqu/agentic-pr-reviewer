@@ -30,3 +30,4 @@ Evaluate code changes for maintainability, style, and architectural soundness.
   "confidence": 0.85,
   "rule_id": "Ruff-E501|complexity|etc"
 }
+ 

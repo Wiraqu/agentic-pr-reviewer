@@ -371,3 +371,4 @@ class RuffTool:
         file_path = base_path / file_name
         file_path.parent.mkdir(parents=True, exist_ok=True)
         file_path.write_text("\n".join(lines) + "\n", encoding="utf-8")
+ 

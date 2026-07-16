@@ -35,4 +35,4 @@ Return a JSON array of findings. Each finding must have:
                 "confidence": 0.95,
                   "rule_id": "OWASP-A01|CWE-89|etc"
                   }
-                  
+                   
