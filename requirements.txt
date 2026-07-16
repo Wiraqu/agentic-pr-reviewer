@@ -1,0 +1,27 @@
+# Core Framework
+langgraph>=0.3.0
+langchain-openai>=0.3.0
+langchain-anthropic>=0.3.0
+langchain-core>=0.3.0
+
+# GitHub Integration
+PyGithub>=2.5.0
+
+# Security & Quality Tools
+semgrep>=1.100.0
+ruff>=0.9.0
+bandit>=1.8.0
+
+# HTTP & Environment
+requests>=2.32.0
+python-dotenv>=1.0.0
+httpx>=0.28.0
+
+# Data Validation & Utilities
+pydantic>=2.10.0
+python-dateutil>=2.9.0
+tenacity>=9.0.0
+
+# Testing (for local dev)
+pytest>=8.3.0
+pytest-asyncio>=0.25.0
