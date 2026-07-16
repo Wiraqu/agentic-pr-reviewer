@@ -1,8 +1,3 @@
-
----
-
-## 1️⃣2️⃣ `README.md`
-
 ```markdown
 # 🔍 IntentGuard — Agentic PR Reviewer
 
