@@ -1,5 +1,4 @@
-```markdown
-# 🔍 IntentGuard — Agentic PR Reviewer
+ IntentGuard — Agentic PR Reviewer
 
 Multi-agent autonomous code review system powered by LangGraph. Four specialized agents analyze every Pull Request in parallel: **Security**, **Quality**, **QA**, and **Alignment**.
 
